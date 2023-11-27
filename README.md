@@ -1,3 +1,11 @@
+![image](https://github.com/raedrian/corn-moisture-monitoring-system/assets/60420630/7a3a9276-2f87-4640-bf46-4a3ab861d0d0)
+
+Components:
+ESP32
+Capacitive Soil Moisture Sensor
+16x2 LCD
+DHT22
+
 Softwares/Links Needed
 
 Code:
